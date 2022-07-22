@@ -7,9 +7,9 @@ body {
 }
 
 main {
-    /* display: grid;
+    display: grid;
     text-align: center;
-    place-items: center; */
+    place-items: center;
 }
 
 a {
